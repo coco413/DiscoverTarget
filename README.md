@@ -23,8 +23,6 @@ self.fofa_token = "xxxxx"
 
 self.zoomeye_user = "xxx@xxx.com"
 self.zoomeye_pass = "xxxxx"
-self.zoomeye_keyword = info['zoomeye']
-self.zoomeye_pool = ThreadPool(10)
 ```
 - 3.运行
 ```
